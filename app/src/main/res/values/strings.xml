@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TwitterCodingTask</string>
+    <string name="trend_name">#Trend</string>
+    <string name="trend_volume">0</string>
+    <string name="error_head">Error</string>
+    <string name="null_data">Data is null or have no trends at your location.</string>
+    <string name="null_location">Location Data is null!</string>
+    <string name="xml_confirm">Confirm</string>
+    <string name="error_msg">Sorry! Couldn\'t fetch data.Please check your internet.</string>
+</resources>
